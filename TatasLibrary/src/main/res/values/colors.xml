@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 蓝色 -->
+    <color name="blue_light">#33B5E5</color>
+    <color name="blue_dark">#0099CC</color>
+    <!-- 紫色 -->
+    <color name="purple_dark">#9933CC</color>
+    <color name="purple_light">#AA66CC</color>
+    <!-- 绿色 -->
+    <color name="green_dark">#669900</color>
+    <color name="green_light">#99CC00</color>
+    <!-- 橙色 -->
+    <color name="orange_dark">#FF8800</color>
+    <color name="orange_light">#FFBB33</color>
+    <!-- 红色 -->
+    <color name="red_dark">#FF4444</color>
+    <color name="red_light">#CC0000</color>
+
+    <!-- ..............................扁平色 .............................. -->
+    <!-- 青绿色 -->
+    <color name="turquoise">#1abc9c</color>
+    <!-- 绿海 -->
+    <color name="green_sea">#16a085</color>
+    <!-- 翠绿色 -->
+    <color name="emerald">#2ecc71</color>
+    <!-- 胆汁色 -->
+    <color name="nephritis">#2ecc71</color>
+    <!-- 蓝色 -->
+    <color name="peter_river">#3498db</color>
+    <color name="bleize_hole">#2980b9</color>
+    <!-- 紫色 -->
+    <color name="amethyst">#9b59b6</color>
+    <color name="wisteria">#8e44ad</color>
+    <!-- 深蓝色 -->
+    <color name="wet_asphalt">#34495e</color>
+    <color name="midnight_blue">#2c3e50</color>
+    <!-- 橘色 -->
+    <color name="sun_flower">#f1c40f</color>
+    <color name="orange">#f39c12</color>
+    <!-- 胡萝卜 -->
+    <color name="carrot">#e67e22</color>
+    <color name="pumpkin">#d35400</color>
+    <!-- 红色 -->
+    <color name="alizarin">#e74c3c</color>
+    <color name="pomegranate">#c0392b</color>
+    <!-- 白色 -->
+    <color name="clouds">#ecf0f1</color>
+    <color name="sliver">#bdc3c7</color>
+    <!-- 灰色 -->
+    <color name="concrete">#95a5a6</color>
+    <color name="asbestos">#7f8c8d</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- 4.0风格button颜色 -->
+    <color name="holo_dialog_button_normal_color">#F5F5F5</color>
+    <color name="holo_dialog_button_pressed_color">#E3E3E3</color>
+    <color name="holo_dialog_text_color">#c6c6c6</color>
+    <color name="holo_dialog_separate_line_color">#D5D5D5</color>
+
+    <color name="transparent">#00000000</color>
+
+</resources>

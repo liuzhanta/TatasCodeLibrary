@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="bgColor"/>
+    <color name="alizarin">#e74c3c</color>
+    <color name="amethyst">#9b59b6</color>
+    <color name="asbestos">#7f8c8d</color>
+    <color name="black">#000000</color>
+    <color name="bleize_hole">#2980b9</color>
+    <color name="blue_dark">#0099CC</color>
+    <color name="blue_light">#33B5E5</color>
+    <color name="carrot">#e67e22</color>
+    <color name="clouds">#ecf0f1</color>
+    <color name="concrete">#95a5a6</color>
+    <color name="emerald">#2ecc71</color>
+    <color name="fbutton_color_alizarin">#e74c3c</color>
+    <color name="fbutton_color_amethyst">#9b59b6</color>
+    <color name="fbutton_color_asbestos">#7f8c8d</color>
+    <color name="fbutton_color_belize_hole">#2980b9</color>
+    <color name="fbutton_color_carrot">#e67e22</color>
+    <color name="fbutton_color_clouds">#ecf0f1</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+    <color name="fbutton_color_emerald">#2ecc71</color>
+    <color name="fbutton_color_green_sea">#16a085</color>
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_nephritis">#27ae60</color>
+    <color name="fbutton_color_orange">#f39c12</color>
+    <color name="fbutton_color_peter_river">#3498db</color>
+    <color name="fbutton_color_pomegranate">#c0392b</color>
+    <color name="fbutton_color_pumpkin">#d35400</color>
+    <color name="fbutton_color_silver">#bdc3c7</color>
+    <color name="fbutton_color_sun_flower">#f1c40f</color>
+    <color name="fbutton_color_transparent">@android:color/transparent</color>
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="fbutton_color_wet_asphalt">#34495e</color>
+    <color name="fbutton_color_wisteria">#8e44ad</color>
+    <color name="fbutton_default_color">#3eadeb</color>
+    <color name="fbutton_default_shadow_color">#ff3493c8</color>
+    <color name="green_dark">#669900</color>
+    <color name="green_light">#99CC00</color>
+    <color name="green_sea">#16a085</color>
+    <color name="holo_dialog_button_normal_color">#F5F5F5</color>
+    <color name="holo_dialog_button_pressed_color">#E3E3E3</color>
+    <color name="holo_dialog_separate_line_color">#D5D5D5</color>
+    <color name="holo_dialog_text_color">#c6c6c6</color>
+    <color name="midnight_blue">#2c3e50</color>
+    <color name="nephritis">#2ecc71</color>
+    <color name="orange">#f39c12</color>
+    <color name="orange_dark">#FF8800</color>
+    <color name="orange_light">#FFBB33</color>
+    <color name="peter_river">#3498db</color>
+    <color name="pomegranate">#c0392b</color>
+    <color name="pumpkin">#d35400</color>
+    <color name="purple_dark">#9933CC</color>
+    <color name="purple_light">#AA66CC</color>
+    <color name="red_dark">#FF4444</color>
+    <color name="red_light">#CC0000</color>
+    <color name="sliver">#bdc3c7</color>
+    <color name="sun_flower">#f1c40f</color>
+    <color name="transparent">#00000000</color>
+    <color name="turquoise">#1abc9c</color>
+    <color name="wet_asphalt">#34495e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="wisteria">#8e44ad</color>
+    <declare-styleable name="DotView"><attr format="color" name="dotColor_Normal"/><attr format="color" name="dotColor_Selected"/><attr format="integer" name="dotCircle"/></declare-styleable>
+    <declare-styleable name="FButton"><attr format="boolean" name="shadowEnabled"/><attr format="color" name="buttonColor"/><attr format="color" name="shadowColor"/><attr format="dimension" name="shadowHeight"/><attr format="dimension" name="cornerRadius"/></declare-styleable>
+    <dimen name="fbutton_default_conner_radius">8dp</dimen>
+    <dimen name="fbutton_default_padding_bottom">5dp</dimen>
+    <dimen name="fbutton_default_padding_left">10dp</dimen>
+    <dimen name="fbutton_default_padding_right">10dp</dimen>
+    <dimen name="fbutton_default_padding_top">5dp</dimen>
+    <dimen name="fbutton_default_shadow_height">4dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <string name="app_name">TataLibrary</string>
+    <string name="dialog_button_cancle">取消</string>
+    <string name="dialog_button_confirm">确定</string>
+    <string name="dialog_content_logout">确定要退出登录吗？</string>
+    <string name="dialog_title">温馨提示</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="HoloDialogButton">
+        <item name="android:background">@drawable/holo_dialog_button_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowExitAnimation">@anim/pop_bottom_exit</item>
+        <item name="android:windowEnterAnimation">@anim/pop_bottom_enter</item>
+    </style>
+    <style name="Theme.Light.FullScreenDialogAct" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="Theme_Black">
+        <item name="bgColor">@color/black</item>
+    </style>
+    <style name="Theme_White">
+        <item name="bgColor">@color/white</item>
+    </style>
+</resources>

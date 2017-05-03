@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

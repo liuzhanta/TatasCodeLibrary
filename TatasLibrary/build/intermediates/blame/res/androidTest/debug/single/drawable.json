@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/separator.xml",
+        "source": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/bundles/debug/res/drawable/separator.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/holo_dialog_button_selector.xml",
+        "source": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/bundles/debug/res/drawable/holo_dialog_button_selector.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/shape_divider.xml",
+        "source": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/bundles/debug/res/drawable/shape_divider.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/shape_button_holo_white_gap_pressed.xml",
+        "source": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/bundles/debug/res/drawable/shape_button_holo_white_gap_pressed.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/shape_button_holo_white_gap.xml",
+        "source": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/bundles/debug/res/drawable/shape_button_holo_white_gap.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/design_fab_background.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/drawable/abc_item_background_holo_dark.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]

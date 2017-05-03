@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="dialog_button_cancle">取消</string>
+    <string name="dialog_button_confirm">确定</string>
+    <string name="dialog_title">温馨提示</string>
+    <string name="dialog_content_logout">确定要退出登录吗？</string>
+</resources>

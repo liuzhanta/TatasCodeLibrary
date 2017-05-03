@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/pop_bottom_enter.xml",
+        "source": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/src/main/res/anim/pop_bottom_enter.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/pop_bottom_exit.xml",
+        "source": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/src/main/res/anim/pop_bottom_exit.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Tata/.android/build-cache/5d90b026b52d502666621d67ab3907f835bf2aa0/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Tata/workspace/AndroidStudioProjects_GitHub/TatasCodeLibrary/TatasLibrary/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Tata/.android/build-cache/2f5d020d69b886ebc3766daeccc7eb01cc2d1221/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]

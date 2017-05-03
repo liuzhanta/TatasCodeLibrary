@@ -1,0 +1,82 @@
+<resources>
+    <!--size for text-->
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_34">34sp</dimen>
+
+    <!--正文字体大小-->
+    <dimen name="font_size_body_15sp">15sp</dimen>
+    <!--按钮文字大小-->
+    <dimen name="font_size_button_15sp">15sp</dimen>
+    <!--标题大小-->
+    <dimen name="font_size_title_21sp">21sp</dimen>
+    <!--大标题文字大小-->
+    <dimen name="font_size_headline_24sp">24sp</dimen>
+    <!--子标题大小-->
+    <dimen name="font_size_subheading_17sp">17sp</dimen>
+
+
+    <!--size for Text Field-->
+    <dimen name="material_design_text_field_padding_above_below">16dp</dimen>
+
+    <!--size for Text Dialog-->
+    <dimen name="material_design_dialog_padding">24dp</dimen>
+    <dimen name="material_design_dialog_button_height">36dp</dimen>
+    <dimen name="material_design_dialog_button_minWidth">64dp</dimen>
+    <dimen name="material_design_dialog_button_min_height">36dp</dimen>
+    <dimen name="material_design_dialog_button_padding">8dp</dimen>
+    <dimen name="material_design_dialog_button_internal_padding">8dp</dimen>
+
+    <!--size for List Item-->
+    <dimen name="list_left_and_right_margins">16dp</dimen>
+    <!--Subtitle height-->
+    <dimen name="subtitle_height">48dp</dimen>
+    <!--Screen edge left and right margins: 16dp-->
+    <dimen name="screen_edge_left_and_right_margins">16dp</dimen>
+    <!--Content associated with an icon or avatar left margin: 72dp-->
+    <dimen name="content_left_margins">72dp</dimen>
+
+    <!--<dimen name="list_item_height">72dp</dimen>-->
+    <!--Space between content areas: 8dp-->
+    <dimen name="content_areas_margin">8dp</dimen>
+
+
+    <!--Components-->
+
+    <!--Bottom Navigation-->
+    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="bottom_navigation_icon_size">24dp</dimen>
+
+    <!--Dividers-->
+    <dimen name="list_divider_height">1dp</dimen>
+    <!--文本上下边距-->
+    <dimen name="list_item_text_top_and_bottom_margin">16dp</dimen>
+
+    <!--List-style sheet with header-->
+    <dimen name="bottom_sheet_list_item_icon_size">24dp</dimen>
+    <dimen name="bottom_sheet_list_item_height">48dp</dimen>
+
+    <!--Single-line list with icon specs-->
+    <dimen name="single_line_list_item_height">48dp</dimen>
+    <dimen name="single_line_list_item_font_size">16sp</dimen>
+    <dimen name="single_line_list_item_top_padding">8dp</dimen>
+    <dimen name="single_line_list_item_icon_left_padding">16dp</dimen>
+    <dimen name="single_line_list_item_text_padding">72dp</dimen>
+
+    <!--Two-line list with icon specs-->
+    <dimen name="two_line_list_item_height">60dp</dimen>
+    <dimen name="two_line_list_avatar_size">35dp</dimen>
+
+    <!--card view specs-->
+    <dimen name="cardview_title">24sp</dimen>
+    <dimen name="cardview_subtitle">14sp</dimen>
+    <dimen name="cardview_content">14sp</dimen>
+
+    <dimen name="cardview_space_margin">8dp</dimen>
+    <dimen name="cardview_content_margin">16dp</dimen>
+
+</resources>

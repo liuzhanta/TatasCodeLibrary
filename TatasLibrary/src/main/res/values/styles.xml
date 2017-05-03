@@ -1,0 +1,41 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowExitAnimation">@anim/pop_bottom_exit</item>
+        <item name="android:windowEnterAnimation">@anim/pop_bottom_enter</item>
+    </style>
+
+    <style name="Theme_Black">
+        <item name="bgColor">@color/black</item>
+    </style>
+
+    <style name="Theme_White">
+        <item name="bgColor">@color/white</item>
+    </style>
+
+    <style name="Theme.Light.FullScreenDialogAct" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+
+    <style name="HoloDialogButton">
+        <item name="android:background">@drawable/holo_dialog_button_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+</resources>
